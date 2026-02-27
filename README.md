@@ -3,6 +3,8 @@
 
 ## Theme: E-Commerce | Consumer Analytics | Personalization
 
+# STREAMLIT : https://shoppingtrendsgdg-e5rjuq7cpsjt6pcldmadc9.streamlit.app/
+
 ## 📌 Overview
 
 The Shopper Behavior Intelligence System is an explainable AI framework designed to analyze customer purchasing behavior, uncover cross-category affinities, and generate actionable insights for merchandising and marketing teams.
