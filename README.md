@@ -1,15 +1,15 @@
-🛍 Shopper Behavior Intelligence System
-Praxis 2.0 – GDG GB Pant
+# 🛍 Shopper Behavior Intelligence System
+## Praxis 2.0 – GDG GB Pant
 
-Theme: E-Commerce | Consumer Analytics | Personalization
+## Theme: E-Commerce | Consumer Analytics | Personalization
 
-📌 Overview
+## 📌 Overview
 
 The Shopper Behavior Intelligence System is an explainable AI framework designed to analyze customer purchasing behavior, uncover cross-category affinities, and generate actionable insights for merchandising and marketing teams.
 
 Unlike traditional recommendation systems, this solution focuses on behavioral segmentation, interpretability, and business impact rather than just predictions.
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 
 E-commerce platforms collect large volumes of transactional data but lack structured behavioral intelligence to understand:
 
@@ -23,7 +23,7 @@ How purchasing behavior impacts merchandising decisions
 
 This project transforms raw retail data into strategic decision intelligence.
 
-🧠 Solution Architecture
+## 🧠 Solution Architecture
 
 Data Layer
 → Feature Engineering
@@ -32,7 +32,7 @@ Data Layer
 → Segment Profiling
 → Business Insight Generation
 
-🔬 Core Components
+## 🔬 Core Components
 1️⃣ Customer Segmentation
 
 Feature Engineering:
@@ -95,7 +95,7 @@ Spending Intensity
 
 This transforms transactional users into interpretable behavioral personas.
 
-📊 Key Business Insights Enabled
+## 📊 Key Business Insights Enabled
 🛍 For Merchandising Teams
 
 Bundle optimization
@@ -104,7 +104,7 @@ Inventory planning
 
 Category-level demand targeting
 
-📢 For Marketing Teams
+## 📢 For Marketing Teams
 
 Segment-based campaign targeting
 
@@ -112,13 +112,13 @@ Discount responsiveness insights
 
 Personalized promotion design
 
-📦 For Product Teams
+## 📦 For Product Teams
 
 Identify satisfaction drivers
 
 Improve category positioning
 
-🚀 Deployment
+## 🚀 Deployment
 
 The system can be deployed using:
 
@@ -130,7 +130,7 @@ Streamlit Cloud (Interactive Dashboard)
 
 Power BI (Business Visualization Layer)
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 
@@ -148,7 +148,7 @@ Google Colab
 
 Gradio / Streamlit (Optional Deployment)
 
-📁 Dataset Used
+## 📁 Dataset Used
 
 shopping_trends.csv
 
@@ -168,7 +168,7 @@ Payment Method
 
 Frequency of Purchases
 
-📈 Evaluation Metrics
+## 📈 Evaluation Metrics
 
 Silhouette Score (Clustering Quality)
 
@@ -178,7 +178,7 @@ Segment Interpretability
 
 Business Relevance of Insights
 
-💡 Innovation Highlights
+## 💡 Innovation Highlights
 
 Multi-layer behavioral intelligence pipeline
 
@@ -190,7 +190,7 @@ Business-aligned output rather than black-box predictions
 
 Behavior DNA profiling system
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Real-time recommendation API
 
@@ -202,7 +202,7 @@ Time-based behavioral tracking
 
 LLM-based review sentiment integration
 
-🏆 Why This Solution Stands Out
+## 🏆 Why This Solution Stands Out
 
 Focuses on explainability, not just prediction
 
@@ -212,7 +212,7 @@ Converts raw data into strategic intelligence
 
 Designed as a scalable retail analytics engine
 
-👩‍💻 Developed For
+## 👩‍💻 Developed For
 
 Praxis 2.0 – GDG GB Pant
 GenAI + Machine Learning Innovation Showcase
